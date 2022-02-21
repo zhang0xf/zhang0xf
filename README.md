@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![zhang0xf's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhang0xf&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang0xf)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhang0xf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
